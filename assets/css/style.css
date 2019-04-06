@@ -1,0 +1,19 @@
+body {
+    font-family: 'Gochi Hand', cursive, sans-serif;
+}
+
+h3, p {
+    padding-bottom: 15px;
+}
+
+.banner {
+    background-color:#b2dbe8;    
+}
+
+#row1, #row2 {
+    height: 60px;
+}
+
+#row3 {
+    height: 100px;
+}
